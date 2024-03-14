@@ -20,7 +20,7 @@ This will give you a list of paths to every keymap file.
 ```lua
 vim.opt.keymap = "ukrainian-jcuken-improved"
 ```
-If you use Vimscript for your configuration, you can set the keymap with like this:
+If you use Vimscript for your configuration, you can set the keymap like this:
 ```vim
 set keymap=ukrainian-jcuken-improved
 ```
